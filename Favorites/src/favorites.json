@@ -1,0 +1,31 @@
+{
+    "搜  索": [
+        {"desc": "百度","url":"https://www.baidu.com/"},
+        {"desc": "谷歌","url": "https://www.google.com"},
+        {"desc": "必应","url": "http://www.bing.com"},
+        {"desc": "搜狗","url": "https://www.sogou.com/"}
+    ],
+    "web开发": [
+        {"desc": "阮一峰","url":"http://www.ruanyifeng.com/blog/"},
+        {"desc": "火狐Web","url": "https://developer.mozilla.org/"},
+        {"desc": "谷歌Web","url": "https://developers.google.com/web/"},
+        {"desc": "NPM","url": "https://www.npmjs.com/"}
+    ],
+    "web框架": [
+        {"desc": "React","url": "https://facebook.github.io/react/"},
+        {"desc": "Bootstrap","url": "http://getbootstrap.com/"},
+        {"desc": "jQuery","url": "http://jquery.com/"},
+        {"desc": "Vuejs","url": "https://vuejs.org/"},
+        {"desc": "Angular","url": "https://angular.io/"}
+    ],
+    "金融、经济": [
+        {"desc": "Entreprenur","url": "https://www.entrepreneur.com/"},
+        {"desc": "腾讯财经","url": "http://finance.qq.com/"}
+    ],
+    "其 它": [
+        {"desc": "Youtube","url": "https://www.youtube.com/"},
+        {"desc": "Twitter","url": "https://twitter.com/"},
+        {"desc": "Facebook","url": "https://www.facebook.com/"},
+        {"desc": "网易公开课","url": "https://open.163.com/"}
+    ]
+}

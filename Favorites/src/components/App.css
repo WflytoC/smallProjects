@@ -1,0 +1,10 @@
+.block {
+	clear: both;
+	margin: 20px 20px;
+}
+
+.header {
+	color: purple;
+	font-size: 25px;
+	font-weight: bold;
+}
